@@ -33,6 +33,7 @@ useradd -s /bin/bash username
 adduser username
 ```
 This is an interactive command that asks for a password and additional details.
+This also creates a folder for your user
 
 ## Managing User Passwords
 To set or change a user’s password:
